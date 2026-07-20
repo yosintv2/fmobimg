@@ -67,6 +67,21 @@ logos = [
     "warwickshire", "hampshire", "nottinghamshire", "somerset",
     "derbyshire", "glamorgan", "gloucestershire", "durham",
     "northamptonshire", "leicestershire", "worcestershire", "middlesex",
+    # BPL (Bangladesh Premier League) teams
+    "comillavictorians", "khulnatigers", "rangpurriders", "chattogramchallengers",
+    "sylhetstrikers", "dhakacapitals", "chittagongvikings",
+    # LPL (Lanka Premier League) teams
+    "jaffnastallions", "colombostrikers", "colombokings", "kandywarriors",
+    "kandyfalcons", "b-lovekandy", "galletitans", "gallemarvels", "dambullaaura",
+    # CPL (Caribbean Premier League) teams
+    "barbadosroyals", "guyanaamazonwarriors", "stkittsandnevispatriots",
+    "jamaicatallawahs", "trinbagoknightriders", "stluciazouks", "falcons",
+    # MLC (Major League Cricket) teams
+    "sanfranciscounicorns", "texassuperkings", "washingtonfreedom",
+    "seattleorcas", "losangelesknightriders",
+    # NPL (Nepal Premier League) teams
+    "biratnagarkings", "chitwanrhinos", "janakpurbolts", "karnaliyaks",
+    "kathmandugurkhas", "lumbinilions", "pokharaavengers", "sudurpaschimroyals",
     # Special logos
     "icc-n-lgo", "bbl-lgo", "wbbl-lgo", "hbl-psl", "strr-lgo", "ipl",
     "worldxi",
